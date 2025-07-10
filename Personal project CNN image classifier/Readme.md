@@ -18,6 +18,9 @@ This web app uses a Convolutional Neural Network (CNN) to detect diseases in **t
 - Accuracy: 97.99% on validation set
 - Saved model: `leafy_crop_disease_best_val_loss_v2.keras`
 
+## Data set link  
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
 ## How to Run
 ```In "Anconda Prompt" type below lines one by one
 pip install -r requirements.txt
