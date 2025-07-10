@@ -5,7 +5,7 @@ This web app uses a Convolutional Neural Network (CNN) to detect diseases in **t
 ## Features
 - Upload a leaf image and get instant predictions
 - Supports `.jpg`, `.jpeg`, and `.png` formats
-- Trained on 50K+ images with class balancing and augmentation
+- Trained on 16K+ images with class balancing and augmentation
 - Built with TensorFlow + Streamlit
 
 ## Upload Guidelines
@@ -15,7 +15,8 @@ This web app uses a Convolutional Neural Network (CNN) to detect diseases in **t
 
 ## Model Info
 - Architecture: 4 Conv2D layers + BatchNorm + Dense
-- Accuracy: 97.99% on validation set
+- Accuracy: 98.99% on validation set
+- loss: 
 - Saved model: `leafy_crop_disease_best_val_loss_v2.keras`
 
 ## Data set link  
