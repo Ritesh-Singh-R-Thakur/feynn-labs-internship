@@ -15,8 +15,8 @@ This web app uses a Convolutional Neural Network (CNN) to detect diseases in **t
 
 ## Model Info
 - Architecture: 4 Conv2D layers + BatchNorm + Dense
-- Accuracy: 98.99% on validation set
-- loss: 
+- Accuracy: 97.99% on validation set
+- Loss: 0.0632 on validation set
 - Saved model: `leafy_crop_disease_best_val_loss_v2.keras`
 
 ## Data set link  
